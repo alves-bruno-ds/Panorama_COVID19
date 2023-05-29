@@ -9,7 +9,7 @@
 ## Projeto - Data Science  - Panorama atualizado da pandemia de COVID-19 no Brasil e no mundo
 
 <p align="center">
-<p width="5%">
+<p width="3%">
   <img src="https://github.com/alves-bruno-ds/data-science-BR/blob/02b5a39df41ebb6882b86df02ee0fc9eebd6bbe9/Banner%20COvid_19.png" >
 </p>
 
