@@ -16,7 +16,7 @@
 Neste artigo científico, analisamos a disseminação, letalidade e evolução dessa pandemia em escala global, fornecendo insights valiosos para o enfrentamento contínuo da pandemia e preparação para futuros desafios globais de saúde.
 
 
-[LINK DO PROJETO]((https://github.com/alvesbruno-ds/Panorama_COVID19/blob/main/BR_Panorama_do_COVID_19.ipynb))
+[LINK DO PROJETO](https://github.com/alvesbruno-ds/Panorama_COVID19/blob/main/BR_Panorama_do_COVID_19.ipynb)
 
 
 Qualquer dúvida, fico a dsposição em meus canais de contato!
